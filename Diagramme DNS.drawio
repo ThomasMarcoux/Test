@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T14:47:10.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="ehdBY_sVx9OFu50qdTsQ" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T14:48:57.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="IpEI2B40UolcNS7zaSja" version="21.1.7" type="github">
   <diagram name="Page-1" id="mmrKuhUsClAi6Ub5Z5lE">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,6 +128,12 @@
         </mxCell>
         <mxCell id="BPFDrSEy2ISm4UzbGqmq-28" value="IP:&lt;div&gt;git.dinf.ca&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="202" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZxs2Kv3mUHDzVAfYtrm-1" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nZxs2Kv3mUHDzVAfYtrm-2" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
