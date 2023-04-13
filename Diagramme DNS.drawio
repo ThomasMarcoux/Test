@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" modified="2023-04-13T14:47:10.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="ehdBY_sVx9OFu50qdTsQ" version="21.1.7" type="github">
+  <diagram name="Page-1" id="mmrKuhUsClAi6Ub5Z5lE">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-1" target="BPFDrSEy2ISm4UzbGqmq-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-1" value="Win10" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="100" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-8" target="BPFDrSEy2ISm4UzbGqmq-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-18" target="BPFDrSEy2ISm4UzbGqmq-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-24" target="BPFDrSEy2ISm4UzbGqmq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-3" target="BPFDrSEy2ISm4UzbGqmq-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-3" value="DNS" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-28" target="BPFDrSEy2ISm4UzbGqmq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="320" />
+              <mxPoint x="320" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-4" value="&lt;div&gt;Query&lt;/div&gt;&lt;div&gt;cloud.dinf.ca&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-12" target="BPFDrSEy2ISm4UzbGqmq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-6" value="&lt;div&gt;Serveur&lt;/div&gt;&lt;div&gt;Root&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="580" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-3" target="BPFDrSEy2ISm4UzbGqmq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="224" as="sourcePoint" />
+            <mxPoint x="580" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-8" value="git.dinf.ca" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-6" target="BPFDrSEy2ISm4UzbGqmq-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="177" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-12" value="NS.CA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-26" target="BPFDrSEy2ISm4UzbGqmq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-14" value="&lt;div&gt;Serveur&lt;/div&gt;&lt;div&gt;dinf.ca&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="580" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-21" target="BPFDrSEy2ISm4UzbGqmq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-15" value="&lt;div&gt;Serveur&lt;/div&gt;&lt;div&gt;.CA&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="580" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-3" target="BPFDrSEy2ISm4UzbGqmq-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="246" as="sourcePoint" />
+            <mxPoint x="578" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-18" value="git.dinf.ca" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-15" target="BPFDrSEy2ISm4UzbGqmq-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="283" as="sourcePoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-21" value="NS.dinf.ca" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-3" target="BPFDrSEy2ISm4UzbGqmq-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="267" as="sourcePoint" />
+            <mxPoint x="580" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-24" value="git.dinf.ca" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-14" target="BPFDrSEy2ISm4UzbGqmq-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="388" as="sourcePoint" />
+            <mxPoint x="386" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-26" value="IP:dinf.ca" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BPFDrSEy2ISm4UzbGqmq-28" target="BPFDrSEy2ISm4UzbGqmq-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDrSEy2ISm4UzbGqmq-28" value="IP:&lt;div&gt;git.dinf.ca&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="202" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
